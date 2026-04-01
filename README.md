@@ -164,13 +164,9 @@ const char* receiverIP = "192.168.x.x"; // check receiver NodeMCU serial output
 
 ---
 
-## 👥 Team
+## 👥 By
 
-| Name | USN |
-|---|---|
-| Poorvik K R | 02JST23UEC037 |
-| Arhan Shariff | 02JST23UEC004 |
-| Dhanush S | 02JST23UEC015 |
+| Poorvik K R | 
 
 **Submitted to:** Dr. Gayitri H M, Associate Professor, Dept. of ECE  
 **Institution:** SJCE, JSS Science and Technology University, Mysuru  
