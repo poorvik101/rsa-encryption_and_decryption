@@ -166,11 +166,9 @@ const char* receiverIP = "192.168.x.x"; // check receiver NodeMCU serial output
 
 ## 👥 By
 
-| Poorvik K R | 
-
-**Submitted to:** Dr. Gayitri H M, Associate Professor, Dept. of ECE  
+ Poorvik K R 
+ Dept. of ECE  
 **Institution:** SJCE, JSS Science and Technology University, Mysuru  
-**Subject:** Communication Systems-1 (22EC350)
 
 ---
 
@@ -181,6 +179,3 @@ const char* receiverIP = "192.168.x.x"; // check receiver NodeMCU serial output
 - Goyal et al. (2021) — Optimization Techniques for RSA in IoT Devices, *ICC Proceedings*
 - Singh & Gupta (2020) — Hybrid Cryptosystems for Secure Wi-Fi Communication
 
----
-
-*Built as part of Communication Systems-1 coursework | JSS Science and Technology University*
